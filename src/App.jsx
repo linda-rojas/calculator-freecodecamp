@@ -61,8 +61,12 @@ function App() {
           </div>
         </section>
       </article>
-      
     </div>
+      <footer className='footer-calculator'>
+        <span>Designed and Coded By </span>
+        <span className='name'>LRojas</span>
+      </footer>
+
     </div>
   )
 }
